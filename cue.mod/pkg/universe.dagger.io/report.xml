@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites time="30">
+<testsuite name="test.bats" tests="1" failures="0" errors="0" skipped="0" time="24" timestamp="2022-02-11T16:24:49" hostname="Toms-MacBook-Pro.local">
+    <testcase classname="test.bats" name="alpine" time="24" />
+
+</testsuite>
+<testsuite name="/Users/tomchauveau/Documents/DAGGER/dagger/pkg/universe.dagger.io/cue.mod/pkg/alpha.dagger.io/bats/tests/testfile/test.bats" tests="1" failures="0" errors="0" skipped="0" time="0" timestamp="2022-02-11T16:24:49" hostname="Toms-MacBook-Pro.local">
+    <testcase classname="/Users/tomchauveau/Documents/DAGGER/dagger/pkg/universe.dagger.io/cue.mod/pkg/alpha.dagger.io/bats/tests/testfile/test.bats" name="simple bats test" time="0" />
+
+</testsuite>
+<testsuite name="/Users/tomchauveau/Documents/DAGGER/dagger/pkg/universe.dagger.io/cue.mod/pkg/alpha.dagger.io/universe.bats" tests="42" failures="42" errors="0" skipped="0" time="1" timestamp="2022-02-11T16:24:49" hostname="Toms-MacBook-Pro.local">
+    <testcase classname="/Users/tomchauveau/Documents/DAGGER/dagger/pkg/universe.dagger.io/cue.mod/pkg/alpha.dagger.io/universe.bats" name="cue-sanity-check" time="0">
+        <failure type="failure">(from function `common_setup&#39; in file cue.mod/pkg/alpha.dagger.io/helpers.bash, line 1,
+ from function `setup&#39; in test file cue.mod/pkg/alpha.dagger.io/universe.bats, line 11)
+  `common_setup&#39; failed
+bats: node_modules/bats-support/load does not exist</failure>
+    </testcase>
+    <testcase classname="/Users/tomchauveau/Documents/DAGGER/dagger/pkg/universe.dagger.io/cue.mod/pkg/alpha.dagger.io/universe.bats" name="os" time="0">
+        <failure type="failure">(from function `common_setup&#39; in file cue.mod/pkg/alpha.dagger.io/helpers.bash, line 1,
+ from function `setup&#39; in test file cue.mod/pkg/alpha.dagger.io/universe.bats, line 11)
+  `common_setup&#39; failed
+bats: node_modules/bats-support/load does not exist</failure>
+    </testcase>
+    <testcase classname="/Users/tomchauveau/Documents/DAGGER/dagger/pkg/universe.dagger.io/cue.mod/pkg/alpha.dagger.io/universe.bats" name="go" time="0">
+        <failure type="failure">(from function `common_setup&#39; in file cue.mod/pkg/alpha.dagger.io/helpers.bash, line 1,
+ from function `setup&#39; in test file cue.mod/pkg/alpha.dagger.io/universe.bats, line 11)
+  `common_setup&#39; failed
+bats: node_modules/bats-support/load does not exist</failure>
+    </testcase>
+    <testcase classname="/Users/tomchauveau/Documents/DAGGER/dagger/pkg/universe.dagger.io/cue.mod/pkg/alpha.dagger.io/universe.bats" name="http" time="0">
+        <failure type="failure">(from function `common_setup&#39; in file cue.mod/pkg/alpha.dagger.io/helpers.bash, line 1,
+ from function `setup&#39; in test file cue.mod/pkg/alpha.dagger.io/universe.bats, line 11)
+  `common_setup&#39; failed
+bats: node_modules/bats-support/load does not exist</failure>
+    </testcase>
+    <testcase classname="/Users/tomchauveau/Documents/DAGGER/dagger/pkg/universe.dagger.io/cue.mod/pkg/alpha.dagger.io/universe.bats" name="js/yarn" time="0">
+        <failure type="failure">(from function `common_setup&#39; in file cue.mod/pkg/alpha.dagger.io/helpers.bash, line 1,
+ from function `setup&#39; in test file cue.mod/pkg/alpha.dagger.io/universe.bats, line 11)
+  `common_setup&#39; failed
+bats: node_modules/bats-support/load does not exist</failure>
+    </testcase>
+    <testcase classname="/Users/tomchauveau/Documents/DAGGER/dagger/pkg/universe.dagger.io/cue.mod/pkg/alpha.dagger.io/universe.bats" name="java/maven" time="0">
+        <failure type="failure">(from function `common_setup&#39; in file cue.mod/pkg/alpha.dagger.io/helpers.bash, line 1,
+ from function `setup&#39; in test file cue.mod/pkg/alpha.dagger.io/universe.bats, line 11)
+  `common_setup&#39; failed
+bats: node_modules/bats-support/load does not exist</failure>
+    </testcase>
+    <testcase classname="/Users/tomchauveau/Documents/DAGGER/dagger/pkg/universe.dagger.io/cue.mod/pkg/alpha.dagger.io/universe.bats" name="alpine" time="0">
+        <failure type="failure">(from function `common_setup&#39; in file cue.mod/pkg/alpha.dagger.io/helpers.bash, line 1,
+ from function `setup&#39; in test file cue.mod/pkg/alpha.dagger.io/universe.bats, line 11)
+  `common_setup&#39; failed
+bats: node_modules/bats-support/load does not exist</failure>
+    </testcase>
+    <testcase classname="/Users/tomchauveau/Documents/DAGGER/dagger/pkg/universe.dagger.io/cue.mod/pkg/alpha.dagger.io/universe.bats" name="netlify" time="0">
+        <failure type="failure">(from function `common_setup&#39; in file cue.mod/pkg/alpha.dagger.io/helpers.bash, line 1,
+ from function `setup&#39; in test file cue.mod/pkg/alpha.dagger.io/universe.bats, line 11)
+  `common_setup&#39; failed
+bats: node_modules/bats-support/load does not exist</failure>
+    </testcase>
+    <testcase classname="/Users/tomchauveau/Documents/DAGGER/dagger/pkg/universe.dagger.io/cue.mod/pkg/alpha.dagger.io/universe.bats" name="git" time="0">
+        <failure type="failure">(from function `common_setup&#39; in file cue.mod/pkg/alpha.dagger.io/helpers.bash, line 1,
+ from function `setup&#39; in test file cue.mod/pkg/alpha.dagger.io/universe.bats, line 11)
+  `common_setup&#39; failed
+bats: node_modules/bats-support/load does not exist</failure>
+    </testcase>
+    <testcase classname="/Users/tomchauveau/Documents/DAGGER/dagger/pkg/universe.dagger.io/cue.mod/pkg/alpha.dagger.io/universe.bats" name="os.#Container" time="0">
+        <failure type="failure">(from function `common_setup&#39; in file cue.mod/pkg/alpha.dagger.io/helpers.bash, line 1,
+ from function `setup&#39; in test file cue.mod/pkg/alpha.dagger.io/universe.bats, line 11)
+  `common_setup&#39; failed
+bats: node_modules/bats-support/load does not exist</failure>
+    </testcase>
+    <testcase classname="/Users/tomchauveau/Documents/DAGGER/dagger/pkg/universe.dagger.io/cue.mod/pkg/alpha.dagger.io/universe.bats" name="aws: ecr" time="0">
+        <failure type="failure">(from function `common_setup&#39; in file cue.mod/pkg/alpha.dagger.io/helpers.bash, line 1,
+ from function `setup&#39; in test file cue.mod/pkg/alpha.dagger.io/universe.bats, line 11)
+  `common_setup&#39; failed
+bats: node_modules/bats-support/load does not exist</failure>
+    </testcase>
+    <testcase classname="/Users/tomchauveau/Documents/DAGGER/dagger/pkg/universe.dagger.io/cue.mod/pkg/alpha.dagger.io/universe.bats" name="aws: ecr/localstack" time="0">
+        <failure type="failure">(from function `common_setup&#39; in file cue.mod/pkg/alpha.dagger.io/helpers.bash, line 1,
+ from function `setup&#39; in test file cue.mod/pkg/alpha.dagger.io/universe.bats, line 11)
+  `common_setup&#39; failed
+bats: node_modules/bats-support/load does not exist</failure>
+    </testcase>
+    <testcase classname="/Users/tomchauveau/Documents/DAGGER/dagger/pkg/universe.dagger.io/cue.mod/pkg/alpha.dagger.io/universe.bats" name="aws: s3" time="0">
+        <failure type="failure">(from function `common_setup&#39; in file cue.mod/pkg/alpha.dagger.io/helpers.bash, line 1,
+ from function `setup&#39; in test file cue.mod/pkg/alpha.dagger.io/universe.bats, line 11)
+  `common_setup&#39; failed
+bats: node_modules/bats-support/load does not exist</failure>
+    </testcase>
+    <testcase classname="/Users/tomchauveau/Documents/DAGGER/dagger/pkg/universe.dagger.io/cue.mod/pkg/alpha.dagger.io/universe.bats" name="aws: s3/localstack" time="0">
+        <failure type="failure">(from function `common_setup&#39; in file cue.mod/pkg/alpha.dagger.io/helpers.bash, line 1,
+ from function `setup&#39; in test file cue.mod/pkg/alpha.dagger.io/universe.bats, line 11)
+  `common_setup&#39; failed
+bats: node_modules/bats-support/load does not exist</failure>
+    </testcase>
+    <testcase classname="/Users/tomchauveau/Documents/DAGGER/dagger/pkg/universe.dagger.io/cue.mod/pkg/alpha.dagger.io/universe.bats" name="aws: eks" time="0">
+        <failure type="failure">(from function `common_setup&#39; in file cue.mod/pkg/alpha.dagger.io/helpers.bash, line 1,
+ from function `setup&#39; in test file cue.mod/pkg/alpha.dagger.io/universe.bats, line 11)
+  `common_setup&#39; failed
+bats: node_modules/bats-support/load does not exist</failure>
+    </testcase>
+    <testcase classname="/Users/tomchauveau/Documents/DAGGER/dagger/pkg/universe.dagger.io/cue.mod/pkg/alpha.dagger.io/universe.bats" name="docker run: local" time="0">
+        <failure type="failure">(from function `common_setup&#39; in file cue.mod/pkg/alpha.dagger.io/helpers.bash, line 1,
+ from function `setup&#39; in test file cue.mod/pkg/alpha.dagger.io/universe.bats, line 11)
+  `common_setup&#39; failed
+bats: node_modules/bats-support/load does not exist</failure>
+    </testcase>
+    <testcase classname="/Users/tomchauveau/Documents/DAGGER/dagger/pkg/universe.dagger.io/cue.mod/pkg/alpha.dagger.io/universe.bats" name="docker run: ports" time="0">
+        <failure type="failure">(from function `common_setup&#39; in file cue.mod/pkg/alpha.dagger.io/helpers.bash, line 1,
+ from function `setup&#39; in test file cue.mod/pkg/alpha.dagger.io/universe.bats, line 11)
+  `common_setup&#39; failed
+bats: node_modules/bats-support/load does not exist</failure>
+    </testcase>
+    <testcase classname="/Users/tomchauveau/Documents/DAGGER/dagger/pkg/universe.dagger.io/cue.mod/pkg/alpha.dagger.io/universe.bats" name="docker build" time="0">
+        <failure type="failure">(from function `common_setup&#39; in file cue.mod/pkg/alpha.dagger.io/helpers.bash, line 1,
+ from function `setup&#39; in test file cue.mod/pkg/alpha.dagger.io/universe.bats, line 11)
+  `common_setup&#39; failed
+bats: node_modules/bats-support/load does not exist</failure>
+    </testcase>
+    <testcase classname="/Users/tomchauveau/Documents/DAGGER/dagger/pkg/universe.dagger.io/cue.mod/pkg/alpha.dagger.io/universe.bats" name="docker push and pull" time="0">
+        <failure type="failure">(from function `common_setup&#39; in file cue.mod/pkg/alpha.dagger.io/helpers.bash, line 1,
+ from function `setup&#39; in test file cue.mod/pkg/alpha.dagger.io/universe.bats, line 11)
+  `common_setup&#39; failed
+bats: node_modules/bats-support/load does not exist</failure>
+    </testcase>
+    <testcase classname="/Users/tomchauveau/Documents/DAGGER/dagger/pkg/universe.dagger.io/cue.mod/pkg/alpha.dagger.io/universe.bats" name="docker push: multi registry" time="0">
+        <failure type="failure">(from function `common_setup&#39; in file cue.mod/pkg/alpha.dagger.io/helpers.bash, line 1,
+ from function `setup&#39; in test file cue.mod/pkg/alpha.dagger.io/universe.bats, line 11)
+  `common_setup&#39; failed
+bats: node_modules/bats-support/load does not exist</failure>
+    </testcase>
+    <testcase classname="/Users/tomchauveau/Documents/DAGGER/dagger/pkg/universe.dagger.io/cue.mod/pkg/alpha.dagger.io/universe.bats" name="docker push: invalid credential" time="0">
+        <failure type="failure">(from function `common_setup&#39; in file cue.mod/pkg/alpha.dagger.io/helpers.bash, line 1,
+ from function `setup&#39; in test file cue.mod/pkg/alpha.dagger.io/universe.bats, line 11)
+  `common_setup&#39; failed
+bats: node_modules/bats-support/load does not exist</failure>
+    </testcase>
+    <testcase classname="/Users/tomchauveau/Documents/DAGGER/dagger/pkg/universe.dagger.io/cue.mod/pkg/alpha.dagger.io/universe.bats" name="docker command: ssh" time="0">
+        <failure type="failure">(from function `common_setup&#39; in file cue.mod/pkg/alpha.dagger.io/helpers.bash, line 1,
+ from function `setup&#39; in test file cue.mod/pkg/alpha.dagger.io/universe.bats, line 11)
+  `common_setup&#39; failed
+bats: node_modules/bats-support/load does not exist</failure>
+    </testcase>
+    <testcase classname="/Users/tomchauveau/Documents/DAGGER/dagger/pkg/universe.dagger.io/cue.mod/pkg/alpha.dagger.io/universe.bats" name="docker command: ssh with key passphrase" time="0">
+        <failure type="failure">(from function `common_setup&#39; in file cue.mod/pkg/alpha.dagger.io/helpers.bash, line 1,
+ from function `setup&#39; in test file cue.mod/pkg/alpha.dagger.io/universe.bats, line 11)
+  `common_setup&#39; failed
+bats: node_modules/bats-support/load does not exist</failure>
+    </testcase>
+    <testcase classname="/Users/tomchauveau/Documents/DAGGER/dagger/pkg/universe.dagger.io/cue.mod/pkg/alpha.dagger.io/universe.bats" name="docker command: ssh with wrong key passphrase" time="0">
+        <failure type="failure">(from function `common_setup&#39; in file cue.mod/pkg/alpha.dagger.io/helpers.bash, line 1,
+ from function `setup&#39; in test file cue.mod/pkg/alpha.dagger.io/universe.bats, line 11)
+  `common_setup&#39; failed
+bats: node_modules/bats-support/load does not exist</failure>
+    </testcase>
+    <testcase classname="/Users/tomchauveau/Documents/DAGGER/dagger/pkg/universe.dagger.io/cue.mod/pkg/alpha.dagger.io/universe.bats" name="docker load" time="0">
+        <failure type="failure">(from function `common_setup&#39; in file cue.mod/pkg/alpha.dagger.io/helpers.bash, line 1,
+ from function `setup&#39; in test file cue.mod/pkg/alpha.dagger.io/universe.bats, line 11)
+  `common_setup&#39; failed
+bats: node_modules/bats-support/load does not exist</failure>
+    </testcase>
+    <testcase classname="/Users/tomchauveau/Documents/DAGGER/dagger/pkg/universe.dagger.io/cue.mod/pkg/alpha.dagger.io/universe.bats" name="docker compose" time="0">
+        <failure type="failure">(from function `common_setup&#39; in file cue.mod/pkg/alpha.dagger.io/helpers.bash, line 1,
+ from function `setup&#39; in test file cue.mod/pkg/alpha.dagger.io/universe.bats, line 11)
+  `common_setup&#39; failed
+bats: node_modules/bats-support/load does not exist</failure>
+    </testcase>
+    <testcase classname="/Users/tomchauveau/Documents/DAGGER/dagger/pkg/universe.dagger.io/cue.mod/pkg/alpha.dagger.io/universe.bats" name="docker run: ssh" time="0">
+        <failure type="failure">(from function `common_setup&#39; in file cue.mod/pkg/alpha.dagger.io/helpers.bash, line 1,
+ from function `setup&#39; in test file cue.mod/pkg/alpha.dagger.io/universe.bats, line 11)
+  `common_setup&#39; failed
+bats: node_modules/bats-support/load does not exist</failure>
+    </testcase>
+    <testcase classname="/Users/tomchauveau/Documents/DAGGER/dagger/pkg/universe.dagger.io/cue.mod/pkg/alpha.dagger.io/universe.bats" name="kubernetes: deployment" time="0">
+        <failure type="failure">(from function `common_setup&#39; in file cue.mod/pkg/alpha.dagger.io/helpers.bash, line 1,
+ from function `setup&#39; in test file cue.mod/pkg/alpha.dagger.io/universe.bats, line 11)
+  `common_setup&#39; failed
+bats: node_modules/bats-support/load does not exist</failure>
+    </testcase>
+    <testcase classname="/Users/tomchauveau/Documents/DAGGER/dagger/pkg/universe.dagger.io/cue.mod/pkg/alpha.dagger.io/universe.bats" name="kubernetes: kustomize" time="0">
+        <failure type="failure">(from function `common_setup&#39; in file cue.mod/pkg/alpha.dagger.io/helpers.bash, line 1,
+ from function `setup&#39; in test file cue.mod/pkg/alpha.dagger.io/universe.bats, line 11)
+  `common_setup&#39; failed
+bats: node_modules/bats-support/load does not exist</failure>
+    </testcase>
+    <testcase classname="/Users/tomchauveau/Documents/DAGGER/dagger/pkg/universe.dagger.io/cue.mod/pkg/alpha.dagger.io/universe.bats" name="kubernetes: helm" time="1">
+        <failure type="failure">(from function `common_setup&#39; in file cue.mod/pkg/alpha.dagger.io/helpers.bash, line 1,
+ from function `setup&#39; in test file cue.mod/pkg/alpha.dagger.io/universe.bats, line 11)
+  `common_setup&#39; failed
+bats: node_modules/bats-support/load does not exist</failure>
+    </testcase>
+    <testcase classname="/Users/tomchauveau/Documents/DAGGER/dagger/pkg/universe.dagger.io/cue.mod/pkg/alpha.dagger.io/universe.bats" name="google cloud: gcr" time="0">
+        <failure type="failure">(from function `common_setup&#39; in file cue.mod/pkg/alpha.dagger.io/helpers.bash, line 1,
+ from function `setup&#39; in test file cue.mod/pkg/alpha.dagger.io/universe.bats, line 11)
+  `common_setup&#39; failed
+bats: node_modules/bats-support/load does not exist</failure>
+    </testcase>
+    <testcase classname="/Users/tomchauveau/Documents/DAGGER/dagger/pkg/universe.dagger.io/cue.mod/pkg/alpha.dagger.io/universe.bats" name="google cloud: gcs" time="0">
+        <failure type="failure">(from function `common_setup&#39; in file cue.mod/pkg/alpha.dagger.io/helpers.bash, line 1,
+ from function `setup&#39; in test file cue.mod/pkg/alpha.dagger.io/universe.bats, line 11)
+  `common_setup&#39; failed
+bats: node_modules/bats-support/load does not exist</failure>
+    </testcase>
+    <testcase classname="/Users/tomchauveau/Documents/DAGGER/dagger/pkg/universe.dagger.io/cue.mod/pkg/alpha.dagger.io/universe.bats" name="google cloud: gke" time="0">
+        <failure type="failure">(from function `common_setup&#39; in file cue.mod/pkg/alpha.dagger.io/helpers.bash, line 1,
+ from function `setup&#39; in test file cue.mod/pkg/alpha.dagger.io/universe.bats, line 11)
+  `common_setup&#39; failed
+bats: node_modules/bats-support/load does not exist</failure>
+    </testcase>
+    <testcase classname="/Users/tomchauveau/Documents/DAGGER/dagger/pkg/universe.dagger.io/cue.mod/pkg/alpha.dagger.io/universe.bats" name="google cloud: secretmanager" time="0">
+        <failure type="failure">(from function `common_setup&#39; in file cue.mod/pkg/alpha.dagger.io/helpers.bash, line 1,
+ from function `setup&#39; in test file cue.mod/pkg/alpha.dagger.io/universe.bats, line 11)
+  `common_setup&#39; failed
+bats: node_modules/bats-support/load does not exist</failure>
+    </testcase>
+    <testcase classname="/Users/tomchauveau/Documents/DAGGER/dagger/pkg/universe.dagger.io/cue.mod/pkg/alpha.dagger.io/universe.bats" name="google cloud: cloudrun" time="0">
+        <failure type="failure">(from function `common_setup&#39; in file cue.mod/pkg/alpha.dagger.io/helpers.bash, line 1,
+ from function `setup&#39; in test file cue.mod/pkg/alpha.dagger.io/universe.bats, line 11)
+  `common_setup&#39; failed
+bats: node_modules/bats-support/load does not exist</failure>
+    </testcase>
+    <testcase classname="/Users/tomchauveau/Documents/DAGGER/dagger/pkg/universe.dagger.io/cue.mod/pkg/alpha.dagger.io/universe.bats" name="terraform" time="0">
+        <failure type="failure">(from function `common_setup&#39; in file cue.mod/pkg/alpha.dagger.io/helpers.bash, line 1,
+ from function `setup&#39; in test file cue.mod/pkg/alpha.dagger.io/universe.bats, line 11)
+  `common_setup&#39; failed
+bats: node_modules/bats-support/load does not exist</failure>
+    </testcase>
+    <testcase classname="/Users/tomchauveau/Documents/DAGGER/dagger/pkg/universe.dagger.io/cue.mod/pkg/alpha.dagger.io/universe.bats" name="azure-resourcegroup" time="0">
+        <failure type="failure">(from function `common_setup&#39; in file cue.mod/pkg/alpha.dagger.io/helpers.bash, line 1,
+ from function `setup&#39; in test file cue.mod/pkg/alpha.dagger.io/universe.bats, line 11)
+  `common_setup&#39; failed
+bats: node_modules/bats-support/load does not exist</failure>
+    </testcase>
+    <testcase classname="/Users/tomchauveau/Documents/DAGGER/dagger/pkg/universe.dagger.io/cue.mod/pkg/alpha.dagger.io/universe.bats" name="azure-storage" time="0">
+        <failure type="failure">(from function `common_setup&#39; in file cue.mod/pkg/alpha.dagger.io/helpers.bash, line 1,
+ from function `setup&#39; in test file cue.mod/pkg/alpha.dagger.io/universe.bats, line 11)
+  `common_setup&#39; failed
+bats: node_modules/bats-support/load does not exist</failure>
+    </testcase>
+    <testcase classname="/Users/tomchauveau/Documents/DAGGER/dagger/pkg/universe.dagger.io/cue.mod/pkg/alpha.dagger.io/universe.bats" name="argocd" time="0">
+        <failure type="failure">(from function `common_setup&#39; in file cue.mod/pkg/alpha.dagger.io/helpers.bash, line 1,
+ from function `setup&#39; in test file cue.mod/pkg/alpha.dagger.io/universe.bats, line 11)
+  `common_setup&#39; failed
+bats: node_modules/bats-support/load does not exist</failure>
+    </testcase>
+    <testcase classname="/Users/tomchauveau/Documents/DAGGER/dagger/pkg/universe.dagger.io/cue.mod/pkg/alpha.dagger.io/universe.bats" name="azure-stapp" time="0">
+        <failure type="failure">(from function `common_setup&#39; in file cue.mod/pkg/alpha.dagger.io/helpers.bash, line 1,
+ from function `setup&#39; in test file cue.mod/pkg/alpha.dagger.io/universe.bats, line 11)
+  `common_setup&#39; failed
+bats: node_modules/bats-support/load does not exist</failure>
+    </testcase>
+    <testcase classname="/Users/tomchauveau/Documents/DAGGER/dagger/pkg/universe.dagger.io/cue.mod/pkg/alpha.dagger.io/universe.bats" name="trivy" time="0">
+        <failure type="failure">(from function `common_setup&#39; in file cue.mod/pkg/alpha.dagger.io/helpers.bash, line 1,
+ from function `setup&#39; in test file cue.mod/pkg/alpha.dagger.io/universe.bats, line 11)
+  `common_setup&#39; failed
+bats: node_modules/bats-support/load does not exist</failure>
+    </testcase>
+    <testcase classname="/Users/tomchauveau/Documents/DAGGER/dagger/pkg/universe.dagger.io/cue.mod/pkg/alpha.dagger.io/universe.bats" name="bats" time="0">
+        <failure type="failure">(from function `common_setup&#39; in file cue.mod/pkg/alpha.dagger.io/helpers.bash, line 1,
+ from function `setup&#39; in test file cue.mod/pkg/alpha.dagger.io/universe.bats, line 11)
+  `common_setup&#39; failed
+bats: node_modules/bats-support/load does not exist</failure>
+    </testcase>
+
+</testsuite>
+<testsuite name="/Users/tomchauveau/Documents/DAGGER/dagger/pkg/universe.dagger.io/cue.mod/pkg/universe.dagger.io/alpine/test/test.bats" tests="1" failures="1" errors="0" skipped="0" time="0" timestamp="2022-02-11T16:24:49" hostname="Toms-MacBook-Pro.local">
+    <testcase classname="/Users/tomchauveau/Documents/DAGGER/dagger/pkg/universe.dagger.io/cue.mod/pkg/universe.dagger.io/alpine/test/test.bats" name="alpine" time="0">
+        <failure type="failure">(from function `common_setup&#39; in file cue.mod/pkg/universe.dagger.io/alpine/test/../../bats_helpers.bash, line 1,
+ from function `setup&#39; in test file cue.mod/pkg/universe.dagger.io/alpine/test/test.bats, line 4)
+  `common_setup&#39; failed
+bats: /Users/tomchauveau/Documents/DAGGER/dagger/pkg/universe.dagger.io/cue.mod/pkg/universe.dagger.io/alpine/test/../../node_modules/bats-support/load.bash does not exist</failure>
+    </testcase>
+
+</testsuite>
+<testsuite name="/Users/tomchauveau/Documents/DAGGER/dagger/pkg/universe.dagger.io/cue.mod/pkg/universe.dagger.io/docker/test/test.bats" tests="1" failures="1" errors="0" skipped="0" time="0" timestamp="2022-02-11T16:24:49" hostname="Toms-MacBook-Pro.local">
+    <testcase classname="/Users/tomchauveau/Documents/DAGGER/dagger/pkg/universe.dagger.io/cue.mod/pkg/universe.dagger.io/docker/test/test.bats" name="docker" time="0">
+        <failure type="failure">(from function `common_setup&#39; in file cue.mod/pkg/universe.dagger.io/docker/test/../../bats_helpers.bash, line 1,
+ from function `setup&#39; in test file cue.mod/pkg/universe.dagger.io/docker/test/test.bats, line 4)
+  `common_setup&#39; failed
+bats: /Users/tomchauveau/Documents/DAGGER/dagger/pkg/universe.dagger.io/cue.mod/pkg/universe.dagger.io/docker/test/../../node_modules/bats-support/load.bash does not exist</failure>
+    </testcase>
+
+</testsuite>
+<testsuite name="/Users/tomchauveau/Documents/DAGGER/dagger/pkg/universe.dagger.io/cue.mod/pkg/universe.dagger.io/yarn/test/test.bats" tests="1" failures="1" errors="0" skipped="0" time="0" timestamp="2022-02-11T16:24:49" hostname="Toms-MacBook-Pro.local">
+    <testcase classname="/Users/tomchauveau/Documents/DAGGER/dagger/pkg/universe.dagger.io/cue.mod/pkg/universe.dagger.io/yarn/test/test.bats" name="yarn" time="0">
+        <failure type="failure">(from function `common_setup&#39; in file cue.mod/pkg/universe.dagger.io/yarn/test/../../bats_helpers.bash, line 1,
+ from function `setup&#39; in test file cue.mod/pkg/universe.dagger.io/yarn/test/test.bats, line 4)
+  `common_setup&#39; failed
+bats: /Users/tomchauveau/Documents/DAGGER/dagger/pkg/universe.dagger.io/cue.mod/pkg/universe.dagger.io/yarn/test/../../node_modules/bats-support/load.bash does not exist</failure>
+    </testcase>
+
+</testsuite>
+<testsuite name="/Users/tomchauveau/Documents/DAGGER/dagger/pkg/universe.dagger.io/cue.mod/pkg/universe.dagger.io/bash/test/test.bats" tests="1" failures="1" errors="0" skipped="0" time="0" timestamp="2022-02-11T16:24:49" hostname="Toms-MacBook-Pro.local">
+    <testcase classname="/Users/tomchauveau/Documents/DAGGER/dagger/pkg/universe.dagger.io/cue.mod/pkg/universe.dagger.io/bash/test/test.bats" name="bash" time="0">
+        <failure type="failure">(from function `common_setup&#39; in file cue.mod/pkg/universe.dagger.io/bash/test/../../bats_helpers.bash, line 1,
+ from function `setup&#39; in test file cue.mod/pkg/universe.dagger.io/bash/test/test.bats, line 4)
+  `common_setup&#39; failed
+bats: /Users/tomchauveau/Documents/DAGGER/dagger/pkg/universe.dagger.io/cue.mod/pkg/universe.dagger.io/bash/test/../../node_modules/bats-support/load.bash does not exist</failure>
+    </testcase>
+
+</testsuite>
+<testsuite name="/Users/tomchauveau/Documents/DAGGER/dagger/pkg/universe.dagger.io/cue.mod/pkg/universe.dagger.io/netlify/test/test.bats" tests="1" failures="1" errors="0" skipped="0" time="0" timestamp="2022-02-11T16:24:49" hostname="Toms-MacBook-Pro.local">
+    <testcase classname="/Users/tomchauveau/Documents/DAGGER/dagger/pkg/universe.dagger.io/cue.mod/pkg/universe.dagger.io/netlify/test/test.bats" name="netlify" time="0">
+        <failure type="failure">(from function `common_setup&#39; in file cue.mod/pkg/universe.dagger.io/netlify/test/../../bats_helpers.bash, line 1,
+ from function `setup&#39; in test file cue.mod/pkg/universe.dagger.io/netlify/test/test.bats, line 4)
+  `common_setup&#39; failed
+bats: /Users/tomchauveau/Documents/DAGGER/dagger/pkg/universe.dagger.io/cue.mod/pkg/universe.dagger.io/netlify/test/../../node_modules/bats-support/load.bash does not exist</failure>
+    </testcase>
+
+</testsuite>
+<testsuite name="/Users/tomchauveau/Documents/DAGGER/dagger/pkg/universe.dagger.io/docker/test/test.bats" tests="1" failures="0" errors="0" skipped="0" time="5" timestamp="2022-02-11T16:25:16" hostname="Toms-MacBook-Pro.local">
+    <testcase classname="/Users/tomchauveau/Documents/DAGGER/dagger/pkg/universe.dagger.io/docker/test/test.bats" name="docker" time="5" />
+
+</testsuite>
+</testsuites>
